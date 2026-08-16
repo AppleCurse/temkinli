@@ -1,0 +1,6 @@
+{
+  "name": "TEMKİN — Karar Vermeden Önce",
+  "description": "Vadeli ticarette çek, firma, ciro zinciri ve risk analizi yapan karar istihbaratı platformu. Temkin Bey karakteri ile interaktif çek analiz simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
